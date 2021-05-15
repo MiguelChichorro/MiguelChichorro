@@ -1,6 +1,6 @@
 ## <i><b>😄Hello Everybody !!!</b></i>
-### Welcome to my GitHub Profile
-#### Feel free to see all you can 
+<h1>Welcome to my GitHub Profile</h1>
+<h2>Feel free to see all you can</h2>
 <p>I´m a programmer and a student in the college Fatec Mogi das Cruzes</p>
 
 ![MiguelChichorro GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelChichorro&show_icons=true&theme=gotham&border_radius=5)
