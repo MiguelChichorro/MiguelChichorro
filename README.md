@@ -8,7 +8,6 @@
 <p>You can find me also:</p>
 <div>
   <a href="https://www.instagram.com/m1guelchichorro/?hl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.facebook.com/miguel.deoliveira.96/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/miguel-chichorro-de-oliveira-1a8a56207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <div>
