@@ -3,7 +3,7 @@
 <p>Feel free to see all you can</p>
 <p>In my Github you can find my projects and the codes i did when i was studying</p>
 
-<h1>Information</h1>
+<h1>:bookmark_tabs:Personal Information</h1>
 <p>I´m a programmer and a student in the college Fatec Mogi das Cruzes</p>
 <p>You can find me also:</p>
 <div>
@@ -34,7 +34,7 @@ languages I have interest:
   <a href="https://www.w3schools.com/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
   <a href="https://www.w3schools.com/cpp/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 </div>
-<h2>Github information</h2>
+<h2>:chart_with_upwards_trend:Github Information</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelChichorro&theme=gotham&layout=compact&hide_border=true) ![MiguelChichorro GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelChichorro&theme=gotham&show_icons=true&layout=compact&hide_title=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true)
 
