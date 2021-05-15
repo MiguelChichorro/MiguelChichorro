@@ -1,4 +1,4 @@
-## <i><b>😄Hello Everybody !!!😄</b></i>
+## <i><b>😄Hello Everybody !!!</b></i>
 ### Welcome to my GitHub Profile
 #### Feel free to see all you can 
 <p>I´m a programmer and a student in the college Fatec Mogi das Cruzes</p>
