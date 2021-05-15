@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/miguel-chichorro-de-oliveira-1a8a56207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelChichorro&theme=gotham&layout=compact&hide_border=true)![MiguelChichorro GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelChichorro&theme=gotham&show_icons=true&layout=compact&hide_title=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelChichorro&theme=gotham&layout=compact&hide_border=true) ![MiguelChichorro GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelChichorro&theme=gotham&show_icons=true&layout=compact&hide_title=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true)
 
 <!-- l- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
