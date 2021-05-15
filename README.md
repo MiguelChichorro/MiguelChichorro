@@ -12,6 +12,10 @@
   <a href ="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
+Now i´m studying about:
+<div>
+  <a href="https://www.w3schools.com/python/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+</div>
 Languages I have already programmed:
 <div>
   <a href="https://www.w3schools.com/whatis/whatis_html.asp"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -29,7 +33,6 @@ languages I have interest:
   <a href="https://www.w3schools.com/nodejs/default.asp"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
   <a href="https://www.w3schools.com/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
   <a href="https://www.w3schools.com/cpp/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-  <a href="https://www.w3schools.com/python/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 </div>
 <h2>Github information</h2>
 
