@@ -4,7 +4,7 @@
 <p>In my Github you can find my projects and the codes i did when i was studying</p>
 
 <h1>:bookmark_tabs:Personal Information</h1>
-<p>I´m a programmer and a student in the college Fatec Mogi das Cruzes</p>
+<p>I´m a programmer and a student in Fatec Mogi das Cruzes college</p>
 <p>You can find me also:</p>
 <div>
   <a href="https://www.instagram.com/m1guelchichorro/?hl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
