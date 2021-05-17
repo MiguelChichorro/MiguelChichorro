@@ -36,7 +36,7 @@ languages I have interest:
 </div>
 <h2>:chart_with_upwards_trend:Github Information</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelChichorro&theme=gotham&layout=compact&hide_border=true) ![MiguelChichorro GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelChichorro&theme=gotham&show_icons=true&layout=compact&hide_title=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelChichorro&theme=gotham&layout=compact&hide_border=true)![MiguelChichorro GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelChichorro&theme=gotham&show_icons=true&layout=compact&hide_title=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true)
 
 <!-- l- 🔭 I’m currently working on ...
 - 🌱 I’m currendrrtly learning ...
