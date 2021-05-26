@@ -1,7 +1,7 @@
 <h1><i>😄Hello Everybody !!!</i></h1>
 <p>Welcome to my GitHub Profile</p>
 <p>Feel free to see all you can</p>
-<p>In my Github you can find my projects and the codes i did when i was studying</p>
+<p>In my Github you can find my projects and the codes I did when I was studying</p>
 
 <h1>:bookmark_tabs:Personal Information</h1>
 <p>I´m a programmer and a student in Fatec Mogi das Cruzes college</p>
@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/miguel-chichorro-de-oliveira-1a8a56207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-Now i´m studying about:
+Now I´m studying about:
 <div>
   <a href="https://www.w3schools.com/python/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 </div>
