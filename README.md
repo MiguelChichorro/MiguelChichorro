@@ -14,6 +14,7 @@
 Now I´m studying about:
 <div>
   <a href="https://www.w3schools.com/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+  <a href="https://www.w3schools.com/python/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 </div>
 Languages I have already programmed:
 <div>
@@ -24,7 +25,6 @@ Languages I have already programmed:
   <a href="https://www.w3schools.com/php/php_mysql_intro.asp"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="https://www.w3schools.com/bootstrap/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
   <a href="https://www.w3schools.com/jquery/default.asp"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
-  <a href="https://www.w3schools.com/python/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 </div>
 
 languages I have interest:
